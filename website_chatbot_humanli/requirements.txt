@@ -1,12 +1,8 @@
 streamlit
-langchain
+langchain==0.1.16
 sentence-transformers
 faiss-cpu
 beautifulsoup4
 requests
 python-dotenv
-openai
-langchain-openai
-langchain-community
-tiktoken
-
+huggingface-hub
